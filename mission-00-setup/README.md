@@ -4,11 +4,9 @@
 Create a correctly named local project folder and a public GitHub repository with the required mission structure.
 
 ## 2. Work completed
-- Repository name: `digital-detective-[LAST-4-USN-DIGITS]`
-- Local folder: `[FILL IN exact folder name and location]`
-- GitHub repository URL: `[FILL IN after creating it]`
-- GitHub username: `[FILL IN only if appropriate; do not include email or passwords]`
-- Files and folders prepared in this starter package. Verify them on your computer.
+- Repository name: digital-detective-8027
+- GitHub repository URL: https://github.com/sravan793/digital-detective-8027
+- GitHub username: sravan793
 
 ## 3. Commands / tools used
 ```bash
@@ -16,20 +14,21 @@ python3 --version
 git --version
 pwd
 ```
-Record the actual output versions here: `[FILL IN]`.
+Record the actual output versions here: Python: 3.13.13
+Git: 2.54.0 (Apple Git).
 
 ## 4. My understanding
 A Git repository is a project folder whose changes Git tracks over time. Separating the work into mission folders makes the assignment easier to navigate, review and commit in stages.
 
 ## 5. Difficulties faced
-[FILL IN what actually happened, or write “None”.]
+None. The setup process was completed successfully.
 
 ## 6. How I resolved them
-[FILL IN what you actually did.]
+I followed the assignment instructions and used Terminal commands to check Python, Git and the project folder structure.
 
 ## 7. Evidence / files
 The repository contains a root README, mission folders and the Python files required by the assignment. Verify the folder list locally and on GitHub.
 
 ## 8. Commit details
-Required meaningful commit example: `Set up Digital Detective mission structure`
-Actual commit hash and push status: `[FILL IN after completing]`.
+Required meaningful commit example: git log -1 --oneline
+Actual commit hash and push status: Successfully committed and pushed the files to GitHub.
