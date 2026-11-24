@@ -1,35 +1,59 @@
-# Mission 0 — Create your GitHub workspace
+# Mission 0 – Create Your GitHub Workspace
 
-## 1. Task / objective
-Create a correctly named local project folder and a public GitHub repository with the required mission structure.
+## 1. Task / Objective
 
-## 2. Work completed
-- Repository name: `digital-detective-[LAST-4-USN-DIGITS]`
-- Local folder: `[FILL IN exact folder name and location]`
-- GitHub repository URL: `[FILL IN after creating it]`
-- GitHub username: `[FILL IN only if appropriate; do not include email or passwords]`
-- Files and folders prepared in this starter package. Verify them on your computer.
+The objective of this mission was to create a properly named GitHub repository and organise folders for all the missions in the Digital Detective assignment.
 
-## 3. Commands / tools used
+## 2. Work Completed
+
+- **Repository Name:** `digital-detective-8505`
+- Created the local project folder with the same repository name.
+- Created folders for all missions from Mission 0 to Mission 8.
+- Created the required README files.
+- Created the Python file for Mission 5.
+- Created an evidence folder.
+- Prepared the GitHub repository for the assignment.
+
+## 3. Tools Used
+
+- **Python:** 3.13.13
+- **Git:** 2.54.0 (Apple Git)
+
+Commands used:
+
 ```bash
 python3 --version
 git --version
 pwd
 ```
-Record the actual output versions here: `[FILL IN]`.
 
-## 4. My understanding
-A Git repository is a project folder whose changes Git tracks over time. Separating the work into mission folders makes the assignment easier to navigate, review and commit in stages.
+## 4. My Understanding
 
-## 5. Difficulties faced
-[FILL IN what actually happened, or write “None”.]
+A Git repository is a place where we can store our project files and track changes. GitHub helps us upload and share our projects online.
 
-## 6. How I resolved them
-[FILL IN what you actually did.]
+Organising the assignment into separate mission folders makes the project easier to manage and understand.
 
-## 7. Evidence / files
-The repository contains a root README, mission folders and the Python files required by the assignment. Verify the folder list locally and on GitHub.
+## 5. Difficulties Faced
 
-## 8. Commit details
-Required meaningful commit example: `Set up Digital Detective mission structure`
-Actual commit hash and push status: `[FILL IN after completing]`.
+I initially found it a little difficult to understand how to create the repository and organise all the folders correctly.
+
+## 6. How I Resolved Them
+
+I followed the assignment instructions and used Terminal commands and GitHub to create the repository and organise the folders.
+
+## 7. Files Created
+
+- `README.md`
+- `mission-00-setup/README.md`
+- `mission-01-computer-basics/README.md`
+- `mission-02-terminal/README.md`
+- `mission-03-operating-system/README.md`
+- `mission-04-programs/README.md`
+- `mission-05-numbers-data/README.md`
+- `mission-05-numbers-data/number_converter.py`
+- `mission-06-git-github/README.md`
+- `mission-07-networking/README.md`
+- `mission-08-final-report/README.md`
+- `evidence/`
+
+## 8. Commit Details
