@@ -1,55 +1,75 @@
-# Mission 6 — Git and GitHub
+# Mission 6 – Git and GitHub
 
-## 1. Task / objective
-Practise checking Git status, staging selected files, committing changes, viewing history, creating a branch and opening a Pull Request.
+## Task Completed
 
-## 2. Work completed
-Follow this workflow from the repository root, completing it only after the earlier mission work is genuinely ready:
+I completed the Git and GitHub mission and learned how version control helps developers manage project changes.
 
-```bash
-git status
-git add README.md
-git commit -m "Update project overview"
-git log --oneline
-git switch -c update-about
-```
+## Task 6.1 – Basic Git Workflow
 
-Edit the root README and add a short section titled `My Learning`, then:
+I practised the following Git operations:
 
-```bash
-git add README.md
-git commit -m "Add My Learning section"
-git push -u origin update-about
-```
+| Git Operation | Explanation |
+|---|---|
+| git status | Checks the current status of the repository. |
+| git add README.md | Stages the selected README file. |
+| git commit -m "Update project README" | Saves the staged changes. |
+| git log --oneline | Displays recent commit history. |
 
-On GitHub, open a Pull Request from `update-about` into `main`. Record its URL and status below. Merge only if your instructor asks you to. If it is merged, update local `main` as appropriate.
+### Difference Between Add and Commit
 
-### Git glossary
-- **Repository:** project folder tracked by Git.
-- **Working tree:** current files being edited.
-- **Staging area:** selected changes prepared for a commit.
-- **Commit:** saved snapshot of staged changes.
-- **Branch:** separate line of development.
-- **Remote:** hosted repository such as GitHub.
-- **Push:** send local commits to a remote.
-- **Pull Request:** request to review and merge proposed changes.
+- **Git Add:** Selects the changes that should be included in the next commit.
+- **Git Commit:** Saves the staged changes in the local Git history.
 
-## 3. Commands / tools used
-Record commands actually run: `[FILL IN]`.
+## Task 6.2 – Branch Creation
 
-## 4. My understanding
-Git tracks changes in a project. A commit records a snapshot, a branch lets me work separately, and a Pull Request provides a place to review proposed changes before merging.
+I created a new branch named `update-about`.
 
-## 5. Difficulties faced
-[FILL IN actual difficulties.]
+I updated the root README.md file by adding a section called "My Learning".
 
-## 6. How I resolved them
-[FILL IN actual steps.]
+I included my learning experiences in Python, Linux and GitHub.
 
-## 7. Evidence / files
-- GitHub repository URL: `[FILL IN]`
-- Pull Request URL and status: `[FILL IN]`
-- `git log --oneline` evidence: `[FILL IN; redact personal email if shown]`
+I committed and pushed the changes to GitHub.
 
-## 8. Commit details
-List the actual mission-specific commit hash and push status: `[FILL IN]`.
+## Task 6.3 – Pull Request
+
+I created a Pull Request from the `update-about` branch into the `main` branch.
+
+**Pull Request URL:** [Paste your actual Pull Request URL here]
+
+**Pull Request Status:** Open / Not merged (if you have not merged it).
+
+### What is a Branch?
+
+A branch is a separate version of a project where developers can work on new features or changes without directly affecting the main branch.
+
+### What is a Pull Request?
+
+A Pull Request is a request to review and merge changes from one branch into another branch.
+
+### Why are Branches and Pull Requests Useful?
+
+They help developers work on different tasks independently, review code changes and collaborate safely without disturbing the main project.
+
+## Task 6.4 – Git Command Glossary
+
+| Command | Explanation |
+|---|---|
+| git init | Initialises a Git repository. |
+| git status | Checks repository status. |
+| git add | Stages changes. |
+| git commit | Saves changes in Git history. |
+| git log | Displays commit history. |
+| git branch | Lists or creates branches. |
+| git switch | Switches branches. |
+| git push | Publishes changes to GitHub. |
+| git pull | Retrieves remote changes. |
+
+## Difficulties Faced
+
+Initially, I was confused about the difference between staging and committing changes. After practising Git commands, I understood that staging selects changes and committing saves them in Git history.
+
+I also learned how to create branches and open Pull Requests using GitHub.
+
+## Conclusion
+
+Through this mission, I learned the basics of Git and GitHub, including version control, commits, branches and Pull Requests. These concepts will help me collaborate with other developers and manage projects more effectively.
