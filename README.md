@@ -63,7 +63,7 @@ I practised Git commands to stage, commit and push my changes to GitHub.
 
 **Commit Message:** Complete final report and verify assignment submission
 
-**Repository:** https://github.com/Liz0511/digital-detective-8505
+**Repository:** https://github.com/sravan793/digital-detective-8027
 
 **Submission Status:** Pending final verification and submission.
 
