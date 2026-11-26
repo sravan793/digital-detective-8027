@@ -33,6 +33,11 @@ I completed the activities step by step and documented my learning in separate m
 - LAN, MAN, WAN, DNS and networking protocols
 - How websites communicate over the internet
 
+- 
+- Repository name: [digital-detective-8027]
+- GitHub repository URL: (https://github.com/sravan793/digital-detective-8027)
+
+
 ## How to Run the Number Converter
 
 The number converter is available in the Mission 5 folder.
