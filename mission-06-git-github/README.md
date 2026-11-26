@@ -34,9 +34,9 @@ I committed and pushed the changes to GitHub.
 
 I created a Pull Request from the `update-about` branch into the `main` branch.
 
-**Pull Request URL:** [Paste your actual Pull Request URL here]
+**Pull Request URL:** (https://github.com/sravan793/digital-detective-8027/pulls)
 
-**Pull Request Status:** Open / Not merged (if you have not merged it).
+**Pull Request Status:** Open 
 
 ### What is a Branch?
 
