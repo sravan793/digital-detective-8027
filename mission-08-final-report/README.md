@@ -32,8 +32,7 @@ I completed the activities step by step and documented my learning in separate m
 - Git, GitHub, branches and Pull Requests
 - LAN, MAN, WAN, DNS and networking protocols
 - How websites communicate over the internet
-
-- 
+### Submission details
 - Repository name: [digital-detective-8027]
 - GitHub repository URL: (https://github.com/sravan793/digital-detective-8027)
 
